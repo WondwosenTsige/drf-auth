@@ -1,6 +1,3 @@
-# Davee's Django Rest API Template
-
-## Author: Davee Sok
 
 ## Links & Resources
 
