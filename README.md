@@ -105,3 +105,9 @@ docker-compose down
 docker-compose logs
 docker-compose up --build
 ```
+
+### Collaboration & Reference
+
+I collaborated with Davee Sok, Daniel Dills and Prabin Singh.
+
+I used class-33 example from our class repo.
